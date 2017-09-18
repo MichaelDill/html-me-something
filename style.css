@@ -1,0 +1,60 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header, footer, main {
+    max-width: 960px;
+    margin: auto;
+}
+
+p {
+    margin: 40px 0 40px 0;
+}
+
+footer {
+    margin: 0 auto 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+span {
+    margin: auto;
+}
+
+#site-title {
+    text-align: center;
+    margin: 20px auto 40px 0;
+    font-size: 42px;
+
+}
+
+#logo {
+    display: inline-block;
+    color: #00FFFF;
+    background: #000000;
+    width: 1.5em;
+    height: 1.5em;
+    border-radius: 100%;
+    font-family: 'Niconne', cursive;
+    top: -10px;
+    position: relative;
+}
+
+main {
+    background: #c6c6c6;
+}
+
+h3 {
+    padding: 15px;
+}
+
+.content {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px;
+}
+
+.fams{
+    margin: auto;
+    text-align: center;
+}
+
